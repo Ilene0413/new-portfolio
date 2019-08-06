@@ -26,8 +26,14 @@
 #bodyPortfolio {
     font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
     background-color: white;
-
-
+}
+.imgdiv{
+    height: 350px;
+    overflow: hidden;
+	/* position: relative; */
+} 
+.myimage {
+    width:100%;
 }
 /** 
     * Main header style
