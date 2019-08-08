@@ -30,7 +30,7 @@
 .imgdiv{
     height: 350px;
     overflow: hidden;
-	/* position: relative; */
+    position: relative;  
 } 
 .myimage {
     width:100%;
