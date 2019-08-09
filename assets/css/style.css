@@ -28,7 +28,7 @@
     background-color: white;
 }
 .imgdiv{
-    height: 350px;
+    /* height: 350px; */
     overflow: hidden;
     position: relative;  
 } 
