@@ -7,10 +7,30 @@
    box-sizing: border-box;
          
       }
+nav {
+    bottom:10;
+    left:0;
+    position: absolute;
+    height:50px;
+    width:100%;
+    text-align: left;
+    z-index: 99;
+}
+nav.fixed {
+    top:0;
+    bottom: inherit;
+    left:0;
+    position:fixed;
+}
+
+
+      
 /** 
     * body style
 **/
-
+p {
+    color: lightslategrey
+}
 #bodyId {
     font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
     background-color:black;
@@ -23,7 +43,8 @@
         }
 
 #bodyPortfolio {
-    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif; 
+
     background-color: white;
 }
 .imgdiv{
