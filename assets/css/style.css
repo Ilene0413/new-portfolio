@@ -16,13 +16,12 @@ nav {
     text-align: left;
     z-index: 99;
 }
-nav.fixed {
+/* .navbar-fixed-top {
     top:0;
     bottom: inherit;
     left:0;
     position:fixed;
-}
-
+ } */
 .line {
     background: lightgrey;
     padding: 1px; 
@@ -51,6 +50,7 @@ p {
     font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif; 
     background-color: white;
 }
+
 .imgdiv{
     /* height: 350px; */
     overflow: hidden;
