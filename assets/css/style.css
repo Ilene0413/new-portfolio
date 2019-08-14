@@ -27,7 +27,13 @@ nav {
     padding: 1px; 
     margin-bottom: 25px;
 }
-
+#headerline {
+    background: gray;
+    padding: 2px;
+    margin-bottom: 10px;
+    margin-left: 440px;
+    margin-right:440px;
+}
       
 /** 
     * body style
