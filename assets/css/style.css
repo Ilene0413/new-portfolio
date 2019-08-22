@@ -16,12 +16,6 @@ nav {
     text-align: left;
     z-index: 99;
 }
-/* .navbar-fixed-top {
-    top:0;
-    bottom: inherit;
-    left:0;
-    position:fixed;
- } */
 .line {
     background: lightgrey;
     padding: 1px; 
@@ -47,7 +41,7 @@ p {
     border: #dddddd;
     font-size: 500%; 
     max-width: 960px; 
-    margin-top: 500px;
+    margin-top: 200px;
     margin-left: auto;
     margin-right: auto;
         }
